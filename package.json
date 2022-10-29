@@ -1,0 +1,26 @@
+{
+  "name": "what-is-the-weekday",
+  "version": "1.0.0",
+  "description": "Implementing zeller's congruence to discover what is the weekday given a date",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [
+    "zeller's",
+    "congruence",
+    "zeller",
+    "congruence",
+    "weekday",
+    "day",
+    "calendar",
+    "gregorian",
+    "calendar",
+    "gregorian"
+  ],
+  "author": "Wesley Matos <wm4tos.777@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
