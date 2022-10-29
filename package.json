@@ -6,17 +6,22 @@
   "scripts": {
     "test": "npx jest"
   },
+  "bugs": {
+    "url": "https://github.com/ologbonowiwi/what-is-the-weekday/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ologbonowiwi/what-is-the-weekday"
+  },
   "keywords": [
-    "zeller's",
-    "congruence",
+    "zeller's congruence",
     "zeller",
     "congruence",
     "weekday",
     "day",
     "calendar",
     "gregorian",
-    "calendar",
-    "gregorian"
+    "gregorian calendar"
   ],
   "author": "Wesley Matos <wm4tos.777@gmail.com>",
   "license": "MIT",
