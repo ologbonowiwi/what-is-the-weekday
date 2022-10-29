@@ -2,7 +2,7 @@
   "name": "what-is-the-weekday",
   "version": "1.0.0",
   "description": "Implementing zeller's congruence to discover what is the weekday given a date",
-  "main": "index.js",
+  "main": "whatIsTheWeekday.js",
   "scripts": {
     "test": "npx jest"
   },
