@@ -4,7 +4,7 @@ The idea with this package is to return to you the weekday from a JavaScript `Da
 
 ## Installation
 
-This library is available as a (npm package)[https://npmjs.com/package/what-is-the-weekday]. You can install:
+This library is available as a [npm package](https://npmjs.com/package/what-is-the-weekday). You can install:
 
 ```
 npm install what-is-the-weekday --save
