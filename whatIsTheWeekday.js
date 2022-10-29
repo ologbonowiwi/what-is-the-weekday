@@ -1,25 +1,6 @@
-const whatIsTheWeekday = ({ lang = "en-us", date = new Date() } = {}) => {
-  const weekdays = {
-    "en-us": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday",
-      "Sunday",
-    ],
-    "pt-br": [
-      "Segunda-Feira",
-      "Terça-Feira",
-      "Quarta-Feira",
-      "Quinta-Feira",
-      "Sexta-Feira",
-      "Sábado",
-      "Domingo",
-    ],
-  };
+const weekdays = require("./weekdays");
 
+const whatIsTheWeekday = ({ lang = "en-us", date = new Date() } = {}) => {
   const [year, month, day] = date
     .toJSON()
     .split("T")[0]
